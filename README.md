@@ -22,5 +22,11 @@ FTP сервер
 
 1. Создание файла:
 
+![image](https://user-images.githubusercontent.com/92279258/146115659-18f39e73-05f9-439a-b5f6-8147c9273f55.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146115790-2ac4e64b-88c5-46c0-b385-7d70e8b879a9.png)
+
+
+
 
 
