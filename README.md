@@ -62,7 +62,36 @@ FTP сервер
 
 ![image](https://user-images.githubusercontent.com/92279258/146252191-c72fb695-d6bc-4fd0-977f-cf388b3dbfd6.png)
 
-Отображение 
+Проверка содержимого файла с помощью команды cat 
+
+![image](https://user-images.githubusercontent.com/92279258/146253383-f84d953f-6944-42e1-b0fe-e065ee2b8276.png)
+
+
+Отображение содержимого папки или файла, перемещение: 
+
+![image](https://user-images.githubusercontent.com/92279258/146253485-4bb41c3a-8030-4a28-a765-39726d1818b8.png)
+
+
+![image](https://user-images.githubusercontent.com/92279258/146253083-4b67af59-27f2-4184-929d-94321838ff7d.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146253512-9afd0592-b34d-4f4a-9f6d-08312836f719.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146253552-ed7fdf4e-574d-47bf-a415-26a55b083719.png)
+
+Удаление файла с помощью команды rm
+
+![image](https://user-images.githubusercontent.com/92279258/146253737-6e680665-7d27-4403-b3a0-c80e49870ac9.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146253815-02e271a8-5fa2-42ee-9abe-c4e6483b1b02.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146253843-30df9296-c4bf-46a2-84e1-af40cb291bbb.png)
+
+
+
+
+
+
+
 
 
 
