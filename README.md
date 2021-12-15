@@ -74,12 +74,16 @@ FTP сервер
 
 ![image](https://user-images.githubusercontent.com/92279258/146253083-4b67af59-27f2-4184-929d-94321838ff7d.png)
 
+
 ![image](https://user-images.githubusercontent.com/92279258/146254290-78bb7076-c9e8-4f64-91ad-0c6d0bc73ec1.png)
 
 
 ![image](https://user-images.githubusercontent.com/92279258/146253552-ed7fdf4e-574d-47bf-a415-26a55b083719.png)
 
+
 Удаление файла с помощью команды rm
+
+![image](https://user-images.githubusercontent.com/92279258/146254529-ff984614-1fa6-4f98-81c5-21c4c07a59ab.png)
 
 ![image](https://user-images.githubusercontent.com/92279258/146253737-6e680665-7d27-4403-b3a0-c80e49870ac9.png)
 
