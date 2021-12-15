@@ -1,0 +1,19 @@
+Start...
+Connection...
+Port> 9090
+Start listening...
+Folder already exists
+pwd
+ls
+cd ..
+mkdir 123
+cd ..
+rmdir 123
+pwd
+echo Hello, world! >> file1.txt
+Text is written in C:\Users\ivana\Vanya2002\file1.txt
+pwd
+exit
+None
+
+
