@@ -43,7 +43,7 @@ FTP сервер
 
 ![image](https://user-images.githubusercontent.com/92279258/146251502-e589bcc7-0c0e-4ba1-ad2b-1fd25df60ed8.png)
 
-Далее запишем текстовый файл в раннее созданную папку tasks
+Далее  с помощью команды echo создадим новый файл, запишем в него текст, ( данный файл  расположен в раннее созданной папке tasks)
 
 ![image](https://user-images.githubusercontent.com/92279258/146251703-c6ced06c-cde0-4fa5-b5f8-2530dd1c3c4d.png)
 
