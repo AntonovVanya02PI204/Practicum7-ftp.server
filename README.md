@@ -13,18 +13,41 @@ FTP сервер
 Реализуйте учётную запись администратора сервера.
 Напишите отладочный клиент. Клиент должен подключаться к серверу и в автоматическом режиме тестировать корректность его работы. Используйте подход, аналогичный написанию модульных тестов. Клиент должен вывести предупреждающее сообщение, если сервер работает некорректно.
 Скриншоты проделанной работы: 
-Работа в командной строке:  - клиент и сервер: 
+Работа в командной строке:  - подключение клиента и сервера: 
 
 ![image](https://user-images.githubusercontent.com/92279258/146115305-47e567bb-3ad1-49f8-a8e9-43ba25ce25cf.png)
 
 
 ![image](https://user-images.githubusercontent.com/92279258/146114989-1afcc3ab-ba4a-470a-b2f2-6799427b25dc.png)
 
-1. Создание файла:
+Создание папки:
 
-![image](https://user-images.githubusercontent.com/92279258/146115659-18f39e73-05f9-439a-b5f6-8147c9273f55.png)
+![image](https://user-images.githubusercontent.com/92279258/146251059-4e18e827-87af-42e3-b3ce-0e97af644acf.png)
 
-![image](https://user-images.githubusercontent.com/92279258/146115790-2ac4e64b-88c5-46c0-b385-7d70e8b879a9.png)
+![image](https://user-images.githubusercontent.com/92279258/146251102-3bb345b0-35ef-4991-b119-36ae056c711c.png)
+
+Создаем в данной директории папку tasks с помощью команды mkdir 
+
+![image](https://user-images.githubusercontent.com/92279258/146251179-83d63d5c-d82f-42c1-bb0b-371a08afe156.png)
+
+Как видим, наша папка появилась 
+
+![image](https://user-images.githubusercontent.com/92279258/146251255-40a1e259-1016-450f-bd7e-a17c874cd1ad.png)
+
+Перейдем в нее, убедимся что она пуста 
+
+![image](https://user-images.githubusercontent.com/92279258/146251320-1af98d37-37c2-428d-ad98-64192802292c.png)
+
+Теперь посмотрим, как отображаются наши действия на сервере:
+
+![image](https://user-images.githubusercontent.com/92279258/146251502-e589bcc7-0c0e-4ba1-ad2b-1fd25df60ed8.png)
+
+Далее запишем текстовый файл в раннее созданной папке tasks
+
+![image](https://user-images.githubusercontent.com/92279258/146251703-c6ced06c-cde0-4fa5-b5f8-2530dd1c3c4d.png)
+
+
+
 
 
 
