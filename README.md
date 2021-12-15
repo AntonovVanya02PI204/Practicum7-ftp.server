@@ -74,7 +74,8 @@ FTP сервер
 
 ![image](https://user-images.githubusercontent.com/92279258/146253083-4b67af59-27f2-4184-929d-94321838ff7d.png)
 
-![image](https://user-images.githubusercontent.com/92279258/146253512-9afd0592-b34d-4f4a-9f6d-08312836f719.png)
+![image](https://user-images.githubusercontent.com/92279258/146254290-78bb7076-c9e8-4f64-91ad-0c6d0bc73ec1.png)
+
 
 ![image](https://user-images.githubusercontent.com/92279258/146253552-ed7fdf4e-574d-47bf-a415-26a55b083719.png)
 
