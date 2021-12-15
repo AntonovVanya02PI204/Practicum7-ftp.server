@@ -46,6 +46,25 @@ FTP сервер
 
 ![image](https://user-images.githubusercontent.com/92279258/146251703-c6ced06c-cde0-4fa5-b5f8-2530dd1c3c4d.png)
 
+Проверим его наличие и содержимое в нем
+
+![image](https://user-images.githubusercontent.com/92279258/146251856-38bb975d-4aa6-4128-9388-0b0cf1d38771.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146251885-9d31847a-84ef-44ee-9890-508e1be4ca48.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146251939-be02f92b-3672-44ff-8b34-a1bc321b5b01.png)
+
+Проверим содержимое папки tasks с помощью команды ls
+
+![image](https://user-images.githubusercontent.com/92279258/146252106-a0ed0abf-bf01-4f13-8283-00bd12713464.png)
+
+Отображение всех действий на сервере 
+
+![image](https://user-images.githubusercontent.com/92279258/146252191-c72fb695-d6bc-4fd0-977f-cf388b3dbfd6.png)
+
+Отображение 
+
+
 
 
 
