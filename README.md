@@ -91,6 +91,35 @@ FTP сервер
 
 ![image](https://user-images.githubusercontent.com/92279258/146253843-30df9296-c4bf-46a2-84e1-af40cb291bbb.png)
 
+Создадим новую папку tasks2, а затем удалим ее с помощью команды rmdir
+
+![image](https://user-images.githubusercontent.com/92279258/146256662-5938a483-d312-481a-8a24-9c3e43e82950.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146256446-435ccd99-82b6-4120-b3c2-e2d55b5da616.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146256483-eab8acf8-d8a7-410d-ba8a-df1193a108c6.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146256533-a5669266-6fbd-479a-831b-127dc2bb941a.png)
+
+Как видим, папка tasks2 удалилась 
+
+![image](https://user-images.githubusercontent.com/92279258/146256631-ee72c23e-3d2a-411d-bbb5-129e0c033a5a.png)
+
+![image](https://user-images.githubusercontent.com/92279258/146256767-db2dbd9d-ff5a-4e44-9735-31511d9cf276.png)
+
+Теперь с помощью команды exit осуществим выход - отключение клиента от сервера
+
+![image](https://user-images.githubusercontent.com/92279258/146256984-775c28c1-a309-494d-8b6c-fff4e7768716.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
